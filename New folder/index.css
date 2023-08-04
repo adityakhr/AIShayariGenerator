@@ -1,0 +1,46 @@
+body{
+    background-color: black;
+}
+#main{
+    margin: 0;
+    padding: 0;
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(99, 125, 217);
+}
+.button{
+    width: 100%;
+    padding: 50px 0px 50px 0px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+button{
+    text-align: center;
+    background-color:rgb(99, 125, 217);
+    color: white;
+    margin-left: 10px;
+    padding: 15px 10px 15px 10px;
+    font-size: 25px;
+    border: 0px solid black;
+    border-radius: 15px;
+}
+button:hover{
+    cursor: pointer;
+    color: rgb(99, 125, 217);
+    background-color: black;
+}
+#shayari{
+    width: 100%;
+    height: 450px;
+    border: 1px solid green;
+    background-color: rgb(99, 125, 217);
+    color: white;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
