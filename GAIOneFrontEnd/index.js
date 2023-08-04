@@ -1,5 +1,5 @@
 const url = "http://localhost:8080/chat?prompt=";
-const key="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";
+const key="YourKey";
 let body = document.getElementById("content");
 let buttonOne = document.getElementById("one");
 buttonOne.addEventListener("click", async function find(el){
