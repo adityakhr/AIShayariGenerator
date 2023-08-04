@@ -1,10 +1,10 @@
-package com.example.demo;
+package com.gpt;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GaiAssignmentOneApplicationTests {
+class ChatGptAssignmentShayariApplicationTests {
 
 	@Test
 	void contextLoads() {

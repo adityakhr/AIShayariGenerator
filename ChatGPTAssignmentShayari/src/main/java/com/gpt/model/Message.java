@@ -1,4 +1,5 @@
-package com.example.demo.model;
+package com.gpt.model;
+
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -8,9 +9,7 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 @NoArgsConstructor
 public class Message {
-//
-//    private String role;
-    
+
+    private String role;
     private String content;
-    
 }
